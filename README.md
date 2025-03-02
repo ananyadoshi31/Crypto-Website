@@ -24,18 +24,28 @@ npm run start
 
 ## Open http://localhost:3001/
 
-API Integration
+API Integration:
+
 Data Source: CoinGecko API
+
 Live Prices Fetched Every 30s
-Features
+
+Features:
+
 Live Crypto Prices
+
 Search & Filter
+
 Dark Mode UI
+
 Auto & Manual Refresh
+
 Optimized for Mobile & Desktop
 
 Built with:
 
 Next.js (App Router)
+
 React Query (State Management)
+
 Docusaurus (Docs)
